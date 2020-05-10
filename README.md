@@ -1,4 +1,5 @@
-# 2020-M5-Forecasting # https://www.kaggle.com/c/m5-forecasting-uncertainty
+# 2020-M5-Forecasting 
+## https://www.kaggle.com/c/m5-forecasting-uncertainty
 
 ## Objectives
 The objective of the M5 forecasting competition is to advance the theory and practice of forecasting by identifying the method(s) that provide the most accurate point forecasts for each of the 42,840 time series of the competition. I addition, to elicit information to estimate the uncertainty distribution of the realized values of these series as precisely as possible. 
